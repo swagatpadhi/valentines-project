@@ -98,7 +98,7 @@ button:hover {
   object-fit: cover;
 }
 
-@media (max-width: 600px) {
+@media (max-width: 500px) {
   #box {
     flex-direction: column;
     margin-top: 40vw;
